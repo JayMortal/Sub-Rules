@@ -1,0 +1,13 @@
+DOMAIN,wmff.warnermediacdn.com,Hbomax
+DOMAIN-SUFFIX,h264.io,Hbomax
+DOMAIN-SUFFIX,hbo.com,Hbomax
+DOMAIN-SUFFIX,hbogo.com,Hbomax
+DOMAIN-SUFFIX,hbonow.com,Hbomax
+DOMAIN-SUFFIX,hbomax.com,Hbomax
+DOMAIN-SUFFIX,hbomaxcdn.com,Hbomax
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,Hbomax
+DOMAIN-SUFFIX,max.com,Hbomax
+DOMAIN-SUFFIX,maxgo.com,Hbomax
+DOMAIN-SUFFIX,cinemax.com,Hbomax
+DOMAIN-SUFFIX,discomax.com,Hbomax
+PROCESS-NAME,com.hbo.hbonow,Hbomax
